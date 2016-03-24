@@ -1,3 +1,3 @@
 # hello-world
-python course
+python course:
 learn how to use github and python
